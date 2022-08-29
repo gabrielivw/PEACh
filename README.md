@@ -18,7 +18,7 @@ Output of PEACh is formula-based estimations of:
 ___METHODS___
 
 Descriptions of all estimation methods used are found in Isaacman-VanWertz and Aumont. They include (in output order):
- -vp_LiDaum: Vapor pressure by averaging Daumit and Li methjods, modified to acccount for nitrates (recommended)
+ -vp_LiDaum: Vapor pressure by averaging Daumit and Li methods, modified to acccount for nitrates (recommended)
  -HLC_linearVP: HLC from linear correlation with vp_LiDaum (recommended)
  -kOH_Constants: kOH as a constant depending on the elements present (recommended)
  -vp_Daumit: Vapor pressure by Daumit et al. (2013)
